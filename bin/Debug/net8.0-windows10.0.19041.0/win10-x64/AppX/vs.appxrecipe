@@ -30,7 +30,7 @@
     <AppXManifest Include="D:\Jokenpô\Jokenpô\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-05-27T19:52:40.363</Modified>
+      <Modified>2024-06-21T14:21:33.911</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Jokenpô\Jokenpô\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Jokenpô.dll">
       <PackagePath>Jokenpô.dll</PackagePath>
-      <Modified>2024-05-27T19:52:40.135</Modified>
+      <Modified>2024-06-21T14:21:33.077</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Jokenpô\Jokenpô\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Jokenpô.exe</PackagePath>
-      <Modified>2024-05-27T19:52:40.139</Modified>
+      <Modified>2024-06-21T14:21:33.145</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\Jokenpô\Jokenpô\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>

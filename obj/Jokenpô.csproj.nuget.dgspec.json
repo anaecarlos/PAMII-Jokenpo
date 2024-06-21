@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Jokenpô\\Jokenpô\\Jokenpô.csproj": {}
+    "D:\\PAMIII\\Jokenpô\\Jokenpô\\Jokenpô.csproj": {}
   },
   "projects": {
-    "D:\\Jokenpô\\Jokenpô\\Jokenpô.csproj": {
+    "D:\\PAMIII\\Jokenpô\\Jokenpô\\Jokenpô.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Jokenpô\\Jokenpô\\Jokenpô.csproj",
+        "projectUniqueName": "D:\\PAMIII\\Jokenpô\\Jokenpô\\Jokenpô.csproj",
         "projectName": "Jokenpô",
-        "projectPath": "D:\\Jokenpô\\Jokenpô\\Jokenpô.csproj",
+        "projectPath": "D:\\PAMIII\\Jokenpô\\Jokenpô\\Jokenpô.csproj",
         "packagesPath": "C:\\Users\\Ryzen\\.nuget\\packages\\",
-        "outputPath": "D:\\Jokenpô\\Jokenpô\\obj\\",
+        "outputPath": "D:\\PAMIII\\Jokenpô\\Jokenpô\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

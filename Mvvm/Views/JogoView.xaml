@@ -5,7 +5,7 @@
 
     <ContentPage.Content>
         <ScrollView>
-            <StackLayout Padding="30,0" Spacing="25" BackgroundColor="#363636">
+            <StackLayout Padding="30,0" Spacing="25" BackgroundColor="Grey">
                 <Entry Placeholder="Jogador" PlaceholderColor="Black" Text="{Binding Jogador}" />
 
                 <Label Text="{Binding Mensagem}" />
@@ -28,7 +28,7 @@
                     <Label Text="Computador" VerticalOptions="CenterAndExpand" />
                 </StackLayout>
 
-                <Button Text="Jogar" Command="{Binding JogarCommand}" />
+                <Button BackgroundColor="Black" TextColor="White" Text="Jogar" Command="{Binding JogarCommand}" />
 
                 <Label Text="{Binding Resultado}"/>
             </StackLayout>
